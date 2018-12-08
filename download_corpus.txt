@@ -1,0 +1,8 @@
+Pour pouvoir exécuter le code python vous devez au préalable télécharger les corpus suivants:
+- punkt
+- brown
+- stopwords
+- wordnet
+- averaged_perceptron_tagger
+
+http://www.nltk.org/nltk_data/
